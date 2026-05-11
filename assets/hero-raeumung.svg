@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="690" viewBox="0 0 960 690" role="img" aria-label="Helles Wohnzimmer nach einer Räumung">
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#edf8f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="690" fill="url(#wall)"/>
+  <rect x="0" y="458" width="960" height="232" fill="#e8d8bc"/>
+  <path d="M0 486h960" stroke="#d4c19e" stroke-width="3"/>
+  <rect x="78" y="96" width="304" height="230" rx="8" fill="#ffffff" stroke="#d9e7ef" stroke-width="8"/>
+  <rect x="104" y="122" width="116" height="178" fill="#d9ecff"/>
+  <rect x="242" y="122" width="114" height="178" fill="#dff5ea"/>
+  <path d="M104 220h252M230 122v178" stroke="#ffffff" stroke-width="8"/>
+  <rect x="528" y="126" width="252" height="308" rx="8" fill="#ffffff" stroke="#dce7ef" stroke-width="8"/>
+  <path d="M560 174h188M560 226h188M560 278h188M560 330h188" stroke="#e7eef4" stroke-width="16" stroke-linecap="round"/>
+  <rect x="122" y="420" width="316" height="86" rx="8" fill="#168a55"/>
+  <rect x="154" y="372" width="116" height="56" rx="8" fill="#b8d8c8"/>
+  <rect x="294" y="372" width="108" height="56" rx="8" fill="#b8d8c8"/>
+  <rect x="630" y="458" width="176" height="96" rx="8" fill="#2563eb"/>
+  <path d="M658 492h120M658 520h86" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+  <circle cx="210" cy="556" r="26" fill="#ffffff" opacity=".72"/>
+  <circle cx="716" cy="604" r="34" fill="#ffffff" opacity=".72"/>
+</svg>
